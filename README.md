@@ -19,3 +19,5 @@ The interesting claim here is consolidation: one model covering images, video wi
 ---
 
 *An independent page about FLUX 3, not affiliated with or endorsed by Black Forest Labs; all trademarks and product names belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
